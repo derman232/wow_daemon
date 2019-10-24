@@ -1,3 +1,3 @@
 # Wow Daemon
 
-Beginning of great things
+- Beginning of great things
